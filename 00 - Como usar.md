@@ -10,6 +10,7 @@
 - [ ] Ato 3 concluído → [[03 - Ato 3]]
 - [ ] Colecionáveis e 100% → [[04 - Colecionáveis e 100%]]
 - [ ] Todas as conquistas possíveis na partida principal → [[05 - Conquistas Steam]]
+- [ ] Chefes opcionais e encontros únicos → [[06 - Chefes e encontros]]
 - [ ] Partida de 100% em menos de 30 horas
 - [ ] Partida de final em menos de 5 horas
 - [ ] Partida Steel Soul com final

@@ -168,4 +168,17 @@ Marque ao **adquirir**; variantes alternativas contam como a mesma entrada. *Sna
 - [ ] Ventrica: Terminus, Memorium, High Halls, First Shrine, Choral Chambers, Grand Bellway e Underworks. Terminus é ligada gratuitamente; confira **Transported** após abrir as demais.
 - [ ] Mapas: compre de Shakra quando a encontrar em cada área, incluindo regiões opcionais. Verifique a [lista de mapas](https://hollowknight.wiki/w/Map_and_Quill_(Silksong)) antes de buscar **Cartographer**.
 
+## Mementos e Bellhome (exploração além do 100%)
+
+Monte o **Materium** encontrado no alto de Memorium em sua Bellhome para ver os mementos. Eles não são todos exigidos pelo percentual ou pelas conquistas, mas fecham a coleção de lembranças. [Tabela da wiki](https://hollowknight.wiki/w/Materium#Mementos).
+
+- [ ] **Sprintmaster Memento** — vença Swift quatro vezes em Far Fields (a terceira vitória já dá o Mask Shard).
+- [ ] **Guardian's Memento** — supere os recordes de Seth nos jogos do Festival of the Flea.
+- [ ] **Hero's Memento** — derrote Lost Garmond no Ato 3.
+- [ ] **Hunter's Memento** — complete o diário e fale com Nuu.
+- [ ] **Grey Memento** — vença Watcher at the Edge em Sands of Karak.
+- [ ] **Surface Memento** — toque Needolin no cadáver no extremo leste de Nameless Town.
+- [ ] **Craw Memento** — vença Crawfather em Court of Craws.
+- [ ] **Coração remanescente** — obtenha os quatro Old Hearts; um não é usado no ritual de Red Memory e fica exposto como memento.
+
 Fontes: [100%](https://hollowknight.wiki/w/Completion_(Silksong)), [Máscaras](https://hollowknight.wiki/w/Mask_Shard_(Silksong)), [Bobinas](https://hollowknight.wiki/w/Spool_Fragment), [Pulgas](https://hollowknight.wiki/w/Flea), [Crests](https://hollowknight.wiki/w/Crests), [Transporte](https://hollowknight.wiki/w/Fast_Travel_(Silksong)).
