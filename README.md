@@ -1,4 +1,4 @@
-# Hollow Knight: Silksong — roadmap de conclusão
+# Hollow Knight: Silksong — roteiro de conclusão
 
 Checklist em português para acompanhar a campanha por ato, conteúdo opcional, pontos de perda, 100% e conquistas da Steam. **Spoilers completos.** Pesquisa revisada em 12/10/2026.
 
@@ -19,6 +19,6 @@ As imagens são incorporadas por URL diretamente da Hollow Knight Wiki e precisa
 - [Conquistas](https://hollowknight.wiki/w/Achievements_(Silksong))
 - [Finais](https://hollowknight.wiki/w/Endings_(Silksong))
 - [100%](https://hollowknight.wiki/w/Completion_(Silksong))
-- [Silk and Soul](https://hollowknight.wiki/w/Silk_and_Soul)
+- [Seda e Alma](https://hollowknight.wiki/w/Silk_and_Soul)
 
-Os nomes de itens e desejos permanecem em inglês para bater com a wiki; os passos estão em português. A wiki pode mudar com patches. Consulte os links em caso de divergência no jogo.
+Os nomes de áreas, chefes, itens e desejos seguem a localização brasileira registrada nas tabelas “Names in Other Languages” da Hollow Knight Wiki. Os títulos das 52 conquistas foram conferidos na [página da Steam em português](https://steamcommunity.com/stats/1030300/achievements/?l=brazilian). Quando o jogo não dá nome oficial a algo, o roteiro usa uma descrição em português. A wiki pode mudar com patches; consulte os links em caso de divergência no jogo.
