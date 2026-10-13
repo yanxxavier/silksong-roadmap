@@ -6,9 +6,11 @@ Checklist em português para acompanhar a campanha por ato, conteúdo opcional, 
 
 1. Abra [00 - Como usar.md](00%20-%20Como%20usar.md).
 2. Siga [01 - Ato 1.md](01%20-%20Ato%201.md), [02 - Ato 2.md](02%20-%20Ato%202.md) e [03 - Ato 3.md](03%20-%20Ato%203.md), nessa ordem.
-3. Use [04 - Colecionáveis e 100%.md](04%20-%20Colecion%C3%A1veis%20e%20100%25.md) em cada região, [05 - Conquistas Steam.md](05%20-%20Conquistas%20Steam.md) para conferir troféus e [06 - Chefes e encontros.md](06%20-%20Chefes%20e%20encontros.md) para confrontos opcionais.
+3. Use [04 - Colecionáveis e 100%.md](04%20-%20Colecion%C3%A1veis%20e%20100%25.md) em cada região, [05 - Conquistas Steam.md](05%20-%20Conquistas%20Steam.md) para conferir troféus e [06 - Chefes e encontros.md](06%20-%20Chefes%20e%20encontros.md) para confrontos opcionais. As notas dos Atos 2 e 3 incluem mapas gerais; a nota de colecionáveis inclui o mapa das pulgas.
 
 O diretório de trabalho é uma cópia publicável. A cópia de jogo fica no Obsidian, em `Pessoal/Jogos/Hollow Knight - Silksong`. Os checkboxes das duas cópias não sincronizam automaticamente; marque no Obsidian.
+
+As imagens são incorporadas por URL diretamente da Hollow Knight Wiki e precisam de conexão para aparecer. Cada uma tem um link para a página do arquivo, com créditos e versão ampliada.
 
 ## Fontes principais
 

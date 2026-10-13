@@ -67,6 +67,10 @@ Use esta nota em paralelo com os atos. A [tabela de 100% da wiki](https://hollow
 
 **Marcos:** 5 pulgas → Flea Brew; 12 após Last Judge → Spool Fragment; 22 e Pale Lake visitado → Tool Pouch; 30 → Egg of Flealia e Festival no Ato 3. Vog pode indicar pulgas faltantes por rosários. [Mapa e descrições completas](https://hollowknight.wiki/w/Flea#Locations).
 
+![Mapa com as 30 localizações de pulgas](https://cdn.wikimg.net/en/hkwiki/images/0/02/Mapshot_SS_Fleas_Small.png)
+
+*Mapa de Eylonsh/Team Cherry: [arquivo e créditos na Hollow Knight Wiki](https://hollowknight.wiki/w/File:Mapshot_SS_Fleas_Small.png). Os números abaixo seguem a [lista da wiki](https://hollowknight.wiki/w/Flea#Locations); amplie a imagem para conferir cada região.*
+
 - [ ] 01 — The Marrow: plataforma após Bell Beast e Bellshrine.
 - [ ] 02 — Deep Docks: parede quebrável à esquerda do Bellway.
 - [ ] 03 — Deep Docks: à esquerda de Swift Step; acerte a alavanca no alto.
